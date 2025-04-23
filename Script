@@ -27,7 +27,7 @@ MakeWindow({
 MinimizeButton({
     Image = "rbxassetid://98953233046110",
     Size = {40, 40},
-    Color = Color3.fromRGB(10, 10, 10),
+    Color = Color3.fromRGB(0, 0, 0),
     Corner = true,
     Stroke = true,
     StrokeColor = Color3.fromHSV(0.5, 1, 1)  -- Hue: 180° for cyan
